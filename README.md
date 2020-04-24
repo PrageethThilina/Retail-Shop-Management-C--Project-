@@ -1,2 +1,2 @@
-# Retail-Shop-Management-C--Project-
-C# .NET MYSQL Project for Retail Shop Management 
+# Retail-Shop-Management-stand-alone-project
+  This project was done according to the client requirements using C# .NET MYSQL
